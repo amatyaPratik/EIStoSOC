@@ -1,3 +1,3 @@
 # EIStoSOC
 repo for implementing feature extraction, SOC/SOH predicting ML model
-2_feature_extraction: branch for extracting featuresfrom Nyquist curve
+3_PCA_on_extracted_features: branch for running PCA on extracted_features.csv
